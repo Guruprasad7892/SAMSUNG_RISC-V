@@ -9,6 +9,33 @@
 
 ![b2](https://github.com/user-attachments/assets/55c19e7e-ebfd-40cc-bf83-527ba790bb87)
 
+## Information about the VSDSquadron Mini RISC-V SoC device
+
+Refer to CH32V003F4U6
+RISC-V SoC Datasheet and CH32V003F4U6 RISC-V SoC Reference Manual
+
+## Overview of VSDSquadron Mini RISC-V development boards
+
+a) On-board 24MHz RC oscillator
+
+b) 3 groups of GPIO ports, totaling 15 I/O ports
+
+c)  USART, I2C, and SPI
+
+d) UART implemented on USART
+
+e) 2KB SRAM for volatile data storage, 16KB CodeFlash for program memory
+
+f) On-board Programmer. NO NEED of any additional adapter
+
+## Dimensions of the VSDSquadron Mini RISC-V development board
+
+a) Form factor is 50.00 x 28.00 mm
+
+b) Maximum height of the component at the top side: 8mm
+
+c) Maximum height of the component at the bottom side: 1mm
+
 ## Virtual Box and vsdsquadron vdi file setup screenshots
 
 ![S1](https://github.com/user-attachments/assets/787049cd-c0ac-416d-879b-d8525f1ef01b)
