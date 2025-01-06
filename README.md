@@ -1,4 +1,14 @@
-# SAMSUNG_RISC-V internship program
+# RISC-V Internship program powered by SAMSUNG and VSD
+### This RISC-V Internship using VSDSquadron Mini is based on RISC-V architecture and uses open-source tools to teach students about VLSI SoC Design and RISC-V. The instructor and guide for this internship is Kunal Ghosh Sir, Founder of VSD.
+
+# Basic Details
+
+### Name: Guru Prasad
+### College: Global Academy of Technology, Bengalore 560056
+### Email ID: guruprasad1ga21ec048@gmail.com
+### GitHub Profile: Guruprasad7892
+### LinkedIN Profile: [Guruprasad Siddarth](https://www.linkedin.com/in/guruprasad-siddarth?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BS4yXsau%2FQraOMYk8evLTww%3D%3D)
+
 <details>
 <summary> All about VSDSquadron Mini </summary>
 <br>
