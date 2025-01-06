@@ -9,8 +9,9 @@
 ### GitHub Profile: Guruprasad7892
 ### LinkedIN Profile: [Guruprasad Siddarth](https://www.linkedin.com/in/guruprasad-siddarth?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BS4yXsau%2FQraOMYk8evLTww%3D%3D)
 
+# VSDSquadron Mini Overview
 <details>
-<summary> All about VSDSquadron Mini </summary>
+<summary> Preview </summary>
 <br>
   
 ## Block diagram of VSDSquadron Mini RISC-V development board is shown below
@@ -50,8 +51,10 @@ c) Maximum height of the component at the bottom side: 1mm
 
 </details>
 
+# Installation of Virtual Box, openlane vdi file, VS Code setup
+
 <details>
-<summary> Virtual Box, openlane vdi file, VS Code installation </summary>
+<summary> Preview </summary>
 <br>
   
 ## Virtual Box and vsdsquadron vdi file setup screenshots
