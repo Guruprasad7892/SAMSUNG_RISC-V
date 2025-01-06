@@ -1,20 +1,13 @@
 # SAMSUNG_RISC-V internship program
 
 ## Block diagram of VSDSquadron Mini RISC-V development board is shown below
+
 ![b1](https://github.com/user-attachments/assets/e7339091-3882-4aa0-9fc5-665118aaa264)
 
 
 ## VSDSquadron Mini RISC-V development board Board image
 
-
-
-
-
-
-
-
-
-
+![b2](https://github.com/user-attachments/assets/55c19e7e-ebfd-40cc-bf83-527ba790bb87)
 
 ## Virtual Box and vsdsquadron vdi file setup screenshots
 
