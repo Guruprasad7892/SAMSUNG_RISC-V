@@ -76,8 +76,7 @@ Download and install VSCode from https://code.visualstudio.com.
 
 ![6](https://github.com/user-attachments/assets/bfe360ff-270c-4eee-9f1f-383b1615abd9)
 
-
-
+![7](https://github.com/user-attachments/assets/39e391bc-129e-4e26-9465-2318a048bfb0)
 
 </details>
 
@@ -87,12 +86,11 @@ Download and install VSCode from https://code.visualstudio.com.
 <summary> Task-1: C based lab screenshots </summary>
 <br>
 
+![t1_1](https://github.com/user-attachments/assets/9f25c6e3-d211-4a68-a92f-cc278d923107)
 
+![t1_2](https://github.com/user-attachments/assets/ea38ed4f-c65e-419c-93e4-dccd5d59ac33)
 
-
-
-
-
+![t1_3](https://github.com/user-attachments/assets/689ff335-68db-4589-8d68-76f0d7c0489d)
 
 </details>
 
@@ -100,7 +98,25 @@ Download and install VSCode from https://code.visualstudio.com.
 <summary> Task-1: RISC-V based lab screenshots </summary>
 <br>
 
+![t1_4](https://github.com/user-attachments/assets/11b3b409-757d-416b-9e67-b3ac9777c7e4)
 
+![t1_5](https://github.com/user-attachments/assets/c40b5bea-b08b-4cc4-8428-0583907c941f)
+
+![t1_6](https://github.com/user-attachments/assets/e33997b7-a922-4a3f-932d-af1fe8a971f8)
+
+![t1_7](https://github.com/user-attachments/assets/205a897b-1132-4184-bc00-e4468a5e0616)
+
+![t1_8](https://github.com/user-attachments/assets/7af05ca6-a4dc-4c49-b536-4c39f93ff753)
+
+![t1_9](https://github.com/user-attachments/assets/50feb661-2b62-4286-b6c2-929d3ce01bf3)
+
+![t1_10](https://github.com/user-attachments/assets/72ddd8e0-72a8-4e56-b973-c5a834c81921)
+
+![t1_11](https://github.com/user-attachments/assets/4d057cb9-365b-4fde-acfc-c2a0b8cc0109)
+
+![t1_12](https://github.com/user-attachments/assets/ee50a408-9a39-418d-a06d-9baae9bf83a9)
+
+![t1_13](https://github.com/user-attachments/assets/05ecba5c-2539-4c9f-bb3f-710d34d1040c)
 
 
 </details>
