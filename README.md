@@ -1,5 +1,8 @@
 # SAMSUNG_RISC-V internship program
-
+<details>
+<summary> All about VSDSquadron Mini </summary>
+<br>
+  
 ## Block diagram of VSDSquadron Mini RISC-V development board is shown below
 
 ![b1](https://github.com/user-attachments/assets/e7339091-3882-4aa0-9fc5-665118aaa264)
@@ -11,8 +14,7 @@
 
 ## Information about the VSDSquadron Mini RISC-V SoC device
 
-Refer to CH32V003F4U6
-RISC-V SoC Datasheet and CH32V003F4U6 RISC-V SoC Reference Manual
+Refer to [CH32V003F4U6 RISC-V SoC Datasheet](https://www.vlsisystemdesign.com/wp-content/uploads/2024/01/Web01_CH32V003DS0.pdf) and [CH32V003F4U6 RISC-V SoC Reference Manual](https://www.vlsisystemdesign.com/wp-content/uploads/2023/09/Web02_CH32V003RM.PDF)
 
 ## Overview of VSDSquadron Mini RISC-V development boards
 
@@ -36,7 +38,15 @@ b) Maximum height of the component at the top side: 8mm
 
 c) Maximum height of the component at the bottom side: 1mm
 
+</details>
+
+<details>
+<summary> Virtual Box, openlane vdi file, VS Code installation </summary>
+<br>
+  
 ## Virtual Box and vsdsquadron vdi file setup screenshots
+
+### For installing vdi file click [openlane_vdi_file](https://forgefunder.com/%7Ekunal/vsdsquadron.vdi)
 
 ![S1](https://github.com/user-attachments/assets/787049cd-c0ac-416d-879b-d8525f1ef01b)
 
@@ -62,10 +72,35 @@ Download and install VSCode from https://code.visualstudio.com.
 
 ![5](https://github.com/user-attachments/assets/484be565-501d-44a8-8149-6fe886e9e18d)
 
-
-
-
 ## Uploading Blink example
 
 ![6](https://github.com/user-attachments/assets/bfe360ff-270c-4eee-9f1f-383b1615abd9)
 
+
+
+
+</details>
+
+## Task-1
+
+<details>
+<summary> Task-1: C based lab screenshots </summary>
+<br>
+
+
+
+
+
+
+
+
+</details>
+
+<details>
+<summary> Task-1: RISC-V based lab screenshots </summary>
+<br>
+
+
+
+
+</details>
