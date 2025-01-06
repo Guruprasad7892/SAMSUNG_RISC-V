@@ -93,7 +93,7 @@ Download and install VSCode from https://code.visualstudio.com.
 
 </details>
 
-## Task-1
+# Task-1
 
 <details>
 <summary> Task-1: C based lab screenshots </summary>
